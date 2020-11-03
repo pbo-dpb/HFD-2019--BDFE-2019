@@ -13,8 +13,8 @@ HFD contains information adapted from Statistics Canada, Survey of Financial Sec
 |High-net-worth Family Database|.csv<br>.pdf|French|BDFE _2019_fr.txt<br>BDFE_2019_noms_de_variables_fr.pdf|
 
 ## Additional information
- - Date published: 2020-1X-XX
- - Date modified: 2020-1X-XX
+ - Date published: 2020-11-03
+ - Date modified: 2020-11-03
 
 ## Contact
 [Office of the Parliamentary Budget Officer](https://www.pbo-dpb.gc.ca) 
@@ -39,8 +39,8 @@ La BDFE contient des données adaptées de Statistique Canada, Enquête sur la s
 
 ## Informations supplémentaires
 
- - Date de publication : 2020-1X-XX
- - Date de modification : 2020-1X-XX
+ - Date de publication : 2020-11-03
+ - Date de modification : 2020-11-03
 
 ## Contact
 [Bureau du directeur parlementaire du budget ](https://www.pbo-dpb.gc.ca) 
